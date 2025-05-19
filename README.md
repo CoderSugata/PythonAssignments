@@ -1,2 +1,2 @@
-# PythonBasicsAssignment
-Find the Python Basics Assignments Here.
+# Python Assignment
+Find the Python Assignments Here.
