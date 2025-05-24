@@ -40,13 +40,9 @@ I created this repository to:
 - [LinkedIn](https://www.linkedin.com/in/sugatamondal/)
 - [Instagram](https://www.instagram.com/sugata_12/)
 
----
-
 ## 🌱 Coming Soon
 
 - 🚧 Practice on file handling, error handling, and modules  
 - 📊 Python for Data Analysis (Pandas, NumPy, Matplotlib)
-
----
 
 > ✨ Star this repo if you're also learning Python — or fork it to start your own journey!
