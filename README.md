@@ -45,4 +45,6 @@ I created this repository to:
 - 🚧 Practice on file handling, error handling, and modules  
 - 📊 Python for Data Analysis (Pandas, NumPy, Matplotlib)
 
+---
+
 > ✨ Star this repo if you're also learning Python — or fork it to start your own journey!
